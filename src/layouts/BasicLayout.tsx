@@ -59,9 +59,9 @@ const defaultFooterDom = (
     copyright={`${new Date().getFullYear()} 蚂蚁集团体验技术部出品`}
     links={[
       {
-        key: 'Ant Design Pro',
-        title: 'Ant Design Pro',
-        href: 'https://pro.ant.design',
+        key: 'Ant Design Pro22',
+        title: 'Ant Design Pro22',
+        href: 'https://pro.ant.design22',
         blankTarget: true,
       },
       {
