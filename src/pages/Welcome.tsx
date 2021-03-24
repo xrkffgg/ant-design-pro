@@ -27,7 +27,7 @@ export default (): React.ReactNode => {
           banner
           style={{
             margin: -12,
-            marginBottom: 24,
+            marginBottom: 26,
           }}
         />
         <Typography.Text strong>
